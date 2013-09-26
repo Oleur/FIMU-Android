@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="55dp" >
+    
+    <ImageView android:id="@+id/actionbar_fimu_logo"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:background="@drawable/icon_fimu"
+        android:padding="0dip"
+        android:contentDescription="@string/img_description" />
+    
+    <LinearLayout android:id="@+id/actionbar_fimu_actionIcons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="0dp" android:padding="0dp"
+        android:background="#121e56" />
+    
+    <ProgressBar android:id="@+id/actionbar_fimu_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/actionbar_fimu_actionIcons"
+        android:layout_centerVertical="true" android:paddingRight="7dip"
+        android:indeterminateOnly="true" android:visibility="gone"
+        style="@android:style/Widget.ProgressBar.Small" />
+    
+    <TextView android:id="@+id/actionbar_fimu_title"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_toRightOf="@id/actionbar_fimu_logo"
+        android:layout_toLeftOf="@id/actionbar_fimu_progress"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" android:textSize="16sp"
+        android:textStyle="bold" android:textColor="#ffffff"
+        android:lines="1" android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textIsSelectable="true"/> 
+    
+
+</RelativeLayout>

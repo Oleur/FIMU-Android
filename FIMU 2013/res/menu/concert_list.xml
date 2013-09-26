@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_add_concert"
+        android:title="@string/action_add_concert"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_refresh_concert"
+        android:title="@string/action_refresh_list"
+        android:icon="@drawable/ic_menu_refresh"
+        android:showAsAction="always"/>
+</menu>

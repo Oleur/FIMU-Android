@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/imageViewGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:paddingRight="5dp"
+        android:src="@drawable/icon_fimu"
+        android:contentDescription="@string/img_description"/>
+
+    <TextView
+        android:id="@+id/textGroupName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewGroup"
+        android:layout_toLeftOf="@+id/textDateHour"
+        android:layout_toRightOf="@+id/imageViewGroup"
+        android:lines="3"
+        android:text="@string/group_name"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textDateHour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/date_and_hour"/>
+
+    <TextView
+        android:id="@+id/textScene"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageViewGroup"
+        android:layout_toRightOf="@+id/imageViewGroup"
+        android:text="@string/scene" />
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textScene"
+        android:layout_alignRight="@+id/textDateHour"
+        android:focusable="false" />
+
+</RelativeLayout>

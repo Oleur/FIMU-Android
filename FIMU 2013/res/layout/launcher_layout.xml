@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:background="@drawable/background"
+    tools:context="com.fimu.LauncherActivity">
+
+   	<Button
+   	    android:id="@+id/b_id_about"
+   	    android:layout_width="match_parent"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignLeft="@+id/b_id_prog"
+   	    android:layout_below="@+id/b_id_prog"
+   	    android:layout_marginTop="10dp"
+   	    android:background="@drawable/selector_buttons_launcher"
+   	    android:text="@string/title_activity_about_fimu"
+   	    android:textColor="#ffffff"
+   	    android:textStyle="bold" />
+
+   	<Button
+   	    android:id="@+id/b_id_prog"
+   	    android:layout_width="match_parent"
+   	    android:layout_height="wrap_content"
+   	    android:layout_centerHorizontal="true"
+   	    android:layout_centerVertical="true"
+   	    android:background="@drawable/selector_buttons_launcher"
+   	    android:text="@string/title_activity_concert_list"
+   	    android:textColor="#ffffff"
+   	    android:textStyle="bold" />
+   	
+   	<LinearLayout
+   	    android:id="@+id/id_linearlayout"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:layout_marginTop="5dp"
+		android:layout_above="@+id/b_id_prog">
+		<View
+       		android:layout_width="wrap_content"
+       		android:layout_height="1dp"
+       		android:background="#ffffff"
+       		android:layout_marginLeft="5dp"
+       		android:layout_marginRight="5dp"
+       		android:layout_marginTop="5dp"
+       		android:layout_marginBottom="10dp" />
+	</LinearLayout>
+   	
+   	<com.facebook.widget.LoginButton
+   	    android:id="@+id/b_facebook_sign_in"
+   	    android:layout_height="wrap_content"
+   	    android:layout_width="match_parent"
+   	    android:layout_centerHorizontal="true"
+   	    android:layout_centerVertical="true"
+   	    android:layout_above="@+id/id_linearlayout"
+   	    android:paddingBottom="10dp"/>
+   	
+   	<com.facebook.widget.ProfilePictureView
+        android:id="@+id/profilePicture"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+   	    android:layout_centerVertical="true"
+        android:layout_above="@+id/b_facebook_sign_in"
+   	    android:paddingBottom="5dp"/>
+
+</RelativeLayout>

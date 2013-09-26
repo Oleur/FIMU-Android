@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fimu>
+    <!-- Genre : Jazz -->
+    <artist name="Jazz Big Band 75" style="Jazz" country="Pologne">
+        <date hour="18:00" scene="Chapiteau Jazz">18/06/2013</date>
+        <date hour="16:30" scene="Chapiteau Jazz">19/06/2013</date>
+    </artist>
+    <artist name="La Superlatina" style="Jazz" country="Mexique">
+        <date hour="19:30"  scene="Chapiteau Jazz">18/06/2014</date>
+        <date hour="16:30"  scene="Scène Bleu">20/06/2014</date>
+    </artist>
+    <artist name="5 Elemento" style="Jazz" country="Mexique">
+        <date hour="22:30" scene="Chapiteau Jazz">18/06/2014</date>
+        <date hour="15:00" scene="Chapiteau Jazz">19/06/2014</date>
+    </artist>
+    <artist name="Ground Green" style="Jazz" scene="L'Arsenal" country="Allemagne">
+        <date hour="19:30" scene="Chapiteau Jazz">19/06/2014</date>
+        <date hour="14:00" scene="Chapiteau Jazz">20/06/2014</date>
+    </artist>
+    <artist name="Big Band du Conservatoire de Belfort" style="Jazz" scene="Le Lion" country="France">
+        <date hour="15:00" scene="Chapiteau Jazz">18/05/2013</date>
+    </artist>
+    <artist name="Variazioni sul tango" style="Jazz" scene="Kiosque à Musique" country="Italie">
+        <date hour="21:30" scene="Kiosque à Musique">18/05/2013</date>
+        <date hour="21:00" scene="Chapiteau Jazz">19/05/2013</date>
+    </artist>
+    <artist name="Big Band de l&#39;EMIPHD" style="Jazz" country="France">
+        <date hour="16:30" scene="Salle des Fêtes">19/05/2013</date>
+    </artist>
+    <artist name="ETH Big Band Zurich" style="Jazz" scene="Le Lion" country="Suisse">
+        <date hour="21:00" scene="Chapiteau Jazz">18/05/2013</date>
+        <date hour="21:30" scene="L'Arsenal">19/05/2013</date>
+    </artist>
+    <artist name="Electrophazz" style="Jazz" scene="Le Lion" country="France">
+        <date hour="23:00" scene="L'Arsenal">18/05/2014</date>
+        <date hour="20:00" scene="Conservatoire">19/05/2014</date>
+    </artist>
+    <artist name="Big Band UTBM" style="Jazz" scene="Le Lion" country="France">
+        <date hour="17:00" scene="Chapiteau Jazz">20/05/2014</date>
+    </artist>
+    <artist name="Fas Trio" style="Jazz" scene="Le Lion" country="Mexique">
+        <date hour="16:30" scene="Chapiteau Jazz">18/05/2014</date>
+        <date hour="22:30" scene="Chapiteau Jazz">19/05/2014</date>
+    </artist>
+    
+    <!-- Genre : Musique actuelle -->
+    <artist name="D-BangerZ" style="Musique Actuelle" country="France">
+        <date hour="18:00" scene="Le Lion">18/05/2013</date>
+    </artist>
+    <artist name="The Tiger Theory" style="Musique Actuelle" country="France">
+        <date hour="16:30" scene="Le Lion">19/05/2013</date>
+        <date hour="17:30" scene="Le Lion">20/05/2013</date>
+    </artist>
+    <artist name="Billy Hornett" style="Musique Actuelle" country="France">
+        <date hour="23:00" scene="L'Arsenal">19/05/2013</date>
+        <date hour="18:00" scene="Scène Bleu">20/05/2013</date>
+    </artist>
+    <artist name="This Year’s Girl" style="Musique Actuelle" country="France">
+        <date hour="21:00" scene="Le Lion">18/05/2013</date>
+    </artist>
+    <artist name="The Napol&#233;ons" style="Musique Actuelle" country="France">
+        <date hour="17:30" scene="Scène Bleu">18/05/2013</date>
+    </artist>
+    <artist name="You Touff" style="Musique Actuelle" country="France">
+        <date hour="22:30" scene="Le Lion">18/05/2013</date>
+    </artist>
+    <artist name="Stoic Drama" style="Musique Actuelle" country="France">
+        <date hour="15:00" scene="Le Lion">18/05/2013</date>
+    </artist>
+    <artist name="Sonith" style="Musique Actuelle" country="France">
+        <date hour="17:00" scene="Conservatoire">19/05/2013</date>
+        <date hour="15:30" scene="L'Arsenal">18/05/2013</date>
+        <date hour="15:00" scene="Scène Bleu">20/05/2013</date>
+    </artist>
+    <artist name="Ya-ourt" style="Musique Actuelle" country="France">
+        <date hour="23:00" scene="Conservatoire">18/05/2013</date>
+    </artist>
+    <artist name="Looping Sound System" style="Musique Actuelle" country="France">
+        <date hour="20:00" scene="Conservatoire">18/05/2013</date>
+        <date hour="22:30" scene="Le Lion">19/05/2013</date>
+    </artist>
+    <artist name="Madjive" style="Musique Actuelle" country="France">
+        <date hour="15:00" scene="Le Lion">19/05/2013</date>
+    </artist>
+    <artist name="Blue Job" style="Musique Actuelle" country="France">
+        <date hour="18:00"  scene="Le Lion">19/05/2013</date>
+    </artist>
+    <artist name="The Slaughterers" style="Musique Actuelle" country="France">
+        <date hour="16:00" scene="Le Lion">20/05/2013</date>
+    </artist>
+    <artist name="Sinai" style="Musique Actuelle" country="France">
+        <date hour="16:30" scene="Le Lion">18/05/2013</date>
+        <date hour="15:30" scene="L'Arsenal">19/05/2013</date>
+    </artist>
+    <artist name="Azad Lab" style="Musique Actuelle" country="France">
+        <date hour="15:30" scene="Conservatoire">19/05/2013</date>
+        <date hour="20:30" scene="Le Lion">20/05/2013</date>
+    </artist>
+    <artist name="Tetra Hydro K" style="Musique Actuelle" country="France">
+        <date hour="21:00" scene="Le Lion">19/05/2013</date>
+        <date hour="17:30" scene="Conservatoire">20/05/2013</date>
+    </artist>
+    <artist name="Feet In The Air" style="Musique Actuelle" country="France">
+        <date hour="19:00" scene="Le Lion">20/05/2013</date>
+    </artist>
+    <artist name="Pira.Ts" style="Musique Actuelle" country="France">
+        <date hour="19:30" scene="Le Lion">18/05/2013</date>
+    </artist>
+    <artist name="Deputies" style="Musique Actuelle" country="France">
+        <date hour="17:00" scene="Conservatoire">18/05/2013</date>
+        <date hour="17:00" scene="L'Arsenal">19/05/2013</date>
+    </artist>
+    <artist name="Humanist" style="Musique Actuelle" country="Burkina Faso">
+        <date hour="15:00" scene="Scène de la République">18/05/2013</date>
+        <date hour="14:30" scene="Conservatoire">20/05/2013</date>
+    </artist>
+    <artist name="Eleventh Sunrise" style="Musique Actuelle" country="France">
+        <date hour="19:30" scene="Le Lion">19/05/2013</date>
+    </artist>
+    <artist name="Supermazoot 2000" style="Musique Actuelle" country="France">
+        <date hour="21:30" scene="Conservatoire">18/05/2013</date>
+    </artist>
+    
+    <!-- Genre : Orchestres symphoniques -->
+    <artist name="Orchestre symphonique du Campus d’Orsay" style="Musique Classique" country="France">
+        <date hour="22:00" scene="L'Atria">18/05/2013</date>
+    </artist>
+    <artist name="Orchestre symphonique du Conservatoire de Prague" style="Musique Classique" country="République Tchèque">
+        <date hour="20:30" scene="L'Atria">18/05/2013</date>
+        <date hour="19:00" scene="L'Atria">19/05/2013</date>
+    </artist>
+    <artist name="Orchestre symphonique Egressy Erkel" style="Musique Classique" country="Hongrie">
+        <date hour="16:00" scene="L'Atria">18/05/2013</date>
+    </artist>
+    <artist name="Orchestre Universitaire de Strasbourg" style="Musique Classique" country="France">
+        <date hour="14:30" scene="L'Atria">18/05/2013</date>
+    </artist>
+    <artist name="Sinfonietta Heidelberg" style="Musique Classique" country="France">
+        <date hour="19:00" scene="L'Atria">18/05/2013</date>
+        <date hour="14:30" scene="L'Atria">19/05/2013</date>
+    </artist>
+    
+    <!-- Genre : Choeurs-->
+    <artist name="Achor" style="Choeurs" country="France">
+        <date hour="18:00" scene="Cathédrale Saint-Christophe">18/05/2013</date>
+    </artist>
+    <artist name="Chor Akademicki" style="Choeurs" country="Pologne">
+        <date hour="22:30" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+        <date hour="18:30" scene="Cathédrale Saint-Christophe">20/05/2013</date>
+    </artist>
+    <artist name="Coro Polifonico San Carlo" style="Choeurs" country="Italie">
+        <date hour="21:00" scene="Cathédrale Saint-Christophe">18/05/2013</date>
+        <date hour="16:30" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+    </artist>
+    <artist name="Coro Ildebrando Pizzetti Dell Universita di Parma" style="Choeurs" country="Italie">
+        <date hour="16:30" scene="Cathédrale Saint-Christophe">18/05/2013</date>
+        <date hour="10:00" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+    </artist>
+    <artist name="Divina Armonie" style="Choeurs" country="Roumanie">
+        <date hour="18:00" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+        <date hour="14:00" scene="Cathédrale Saint-Christophe">20/05/2013</date>
+    </artist>
+    <artist name="Spevacky Sbor Slovensky Ucitelov" style="Choeurs" country="Slovaquie">
+        <date hour="19:30" scene="Cathédrale Saint-Christophe">18/05/2013</date>
+        <date hour="16:00" scene="Salle des Fêtes">20/05/2013</date>
+    </artist>
+    <artist name="Tavor" style="Choeurs" country="Ukraine">
+        <date hour="22:30" scene="Cathédrale Saint-Christophe">18/05/2013</date>
+        <date hour="15:00" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+    </artist>
+    <artist name="Visson" style="Choeurs" country="Biélorussie">
+        <date hour="15:00" scene="Cathédrale Saint-Christophe">18/05/2013</date>
+        <date hour="21:00" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+    </artist>
+    
+    <!-- Genre : Reste musique classique -->
+    <artist name="Arcato Ensemble" style="Musique Classique" country="Pays-Bas">
+        <date hour="19:30" scene="Cathédrale Saint-Christophe">19/05/2013</date>
+        <date hour="14:00" scene="L'Atria">20/05/2013</date>
+    </artist>
+    <artist name="Brass Quintet of Gaia" style="Musique Classique" country="Portugal">
+        <date hour="17:30" scene="Hôtel de Ville">19/05/2013</date>
+        <date hour="15:30" scene="Hôtel de Ville">20/05/2013</date>
+    </artist>
+    <artist name="Camerata de Cordoba" style="Musique Classique" country="Argentine">
+        <date hour="16:00" scene="Salle des Fêtes">18/05/2013</date>
+    </artist>
+    <artist name="Duo Blanc et Noir" style="Musique Classique" country="Turquie">
+        <date hour="17:30" scene="Hôtel du Département">19/05/2013</date>
+        <date hour="14:00" scene="Hôtel du Département">20/05/2013</date>
+    </artist>
+    <artist name="Ensemble Accord&#233;ons TUTTI" style="Musique Classique" country="Biélorussie">
+        <date hour="21:00" scene="Salle des Fêtes">18/05/2013</date>
+        <date hour="17:30" scene="Salle des Fêtes">20/05/2013</date>
+    </artist>
+    <artist name="Espacio Escenico" style="Musique Classique" country="Espagne">
+        <date hour="20:30" scene="Théatre Granit">19/05/2013</date>
+        <date hour="14:00" scene="Théatre Granit">20/05/2013</date>
+    </artist>
+    <artist name="Fa Duo" style="Musique Classique" country="Lituanie">
+        <date hour="14:30" scene="Hôtel du Département">18/05/2013</date>
+        <date hour="17:00" scene="Chambre de Commerce">19/05/2013</date>
+    </artist>
+    <artist name="F&#233;lix Verry" style="Musique Classique" country="France">
+        <date hour="17:00" scene="Chambre de Commerce">18/05/2013</date>
+    </artist>
+    <artist name="Flutensemble Izmir" style="Musique Classique" country="Turquie">
+        <date hour="22:30" scene="Salle des Fêtes">19/05/2013</date>
+        <date hour="15:30" scene="Cathédrale Saint-Christophe">20/05/2013</date>
+    </artist>
+    <artist name="Giocoso" style="Musique Classique" country="France">
+        <date hour="17:00" scene="Cathédrale Saint-Christophe">20/05/2013</date>
+    </artist>
+    <artist name="Nota Bene" style="Musique Classique" country="Biélorussie">
+        <date hour="17:30" scene="Hôtel du Département">18/05/2013</date>
+        <date hour="14:30" scene="Hôtel du Département">19/05/2013</date>
+    </artist>
+    <artist name="Orchestre de Mandolines et Guitares de Remiremont" style="Musique Classique" country="France">
+        <date hour="18:00" scene="Salle des Fêtes">19/05/2013</date>
+    </artist>
+    <artist name="Quatuor Ebene" style="Musique Classique" country="Espagne">
+        <date hour="17:30" scene="Hôtel de Ville">18/05/2013</date>
+        <date hour="15:30" scene="Hôtel du Département">20/05/2013</date>
+    </artist>
+    <artist name="Sylvain Gourlay" style="Musique Classique" country="France">
+        <date hour="16:00" scene="Théatre Granit">18/05/2013</date>
+        <date hour="16:00" scene="Hôtel du Département">19/05/2013</date>
+    </artist>
+    <artist name="Tir’Pouss et Eolia" style="Musique Classique" country="France">
+        <date hour="15:00" scene="Salle des Fêtes">18/05/2013</date>
+    </artist>
+    <artist name="Udi Cello Ensemble" style="Musique Classique" country="Brésil">
+        <date hour="17:30" scene="Théatre Granit">18/05/2013</date>
+        <date hour="22:00" scene="Théatre Granit">19/05/2013</date>
+    </artist>
+    <artist name="Ensemble de Cuivres Jurassien B" style="Musique Classique" country="Suisse">
+        <date hour="22:30" scene="Salle des Fêtes">18/05/2013</date>
+    </artist>
+    <artist name="Filarmonica Sestrese" style="Musique Classique" country="Italie">
+        <date hour="22:00" scene="L'Atria">19/05/2013</date>
+        <date hour="15:30" scene="L'Atria">20/05/2013</date>
+    </artist>
+    <artist name="Orchestre d’Harmonie de Beaulieu Mandeure" style="Musique Classique" country="France">
+        <date hour="20:30" scene="L'Atria">19/05/2013</date>
+    </artist>
+    <artist name="Orchestre d’Harmonie de la Ville de Belfort" style="Musique Classique" country="France">
+        <date hour="20:00" scene="L'Atria">20/05/2013</date>
+    </artist>
+    <artist name="Orchestre d’Harmonie de Saint Laurent du Pont" style="Musique Classique" country="France">
+        <date hour="18:00" scene="Salle des Fêtes">18/05/2013</date>
+    </artist>
+    <artist name="Orchestre d’Harmonie de Vandoeuvre" style="Musique Classique" country="France">
+        <date hour="21:00" scene="Salle des Fêtes">19/05/2013</date>
+    </artist>
+    <artist name="Orchestre à vents junior" style="Musique Classique" country="France">
+        <date hour="14:30" scene="Salle des Fêtes">20/05/2013</date>
+    </artist>
+    <artist name="Pop Orchestra" style="Musique Classique" country="France">
+        <date hour="15:00" scene="Salle des Fêtes">19/05/2013</date>
+    </artist>
+    <artist name="Shanghai University Concert Band" style="Musique Classique" country="Chine">
+        <date hour="17:30" scene="L'Atria">19/05/2013</date>
+        <date hour="17:00" scene="L'Atria">20/05/2013</date>
+    </artist>
+    <artist name="Societat Musical Cecilia Wind Band" style="Musique Classique" country="Espagne">
+        <date hour="19:00" scene="L'Atria">18/05/2013</date>
+        <date hour="14:30" scene="L'Atria">19/05/2013</date>
+    </artist>
+    <artist name="Why Notes" style="Musique Classique" country="France">
+        <date hour="18:30" scene="L'Atria">20/05/2013</date>
+    </artist>
+    
+    <!-- Genre: Musique du monde -->
+    <artist name="Anvil Ceilidh Band" style="Musique du Monde" country="Ecosse">
+        <date hour="18:30" scene="Kiosque à Musique">18/05/2013</date>
+        <date hour="17:00" scene="Kiosque à Musique">19/05/2013</date>
+    </artist>
+    <artist name="ARS Nova Napoli" style="Musique du Monde" country="Italie">
+        <date hour="18:00" scene="Scène de la République">19/05/2013</date>
+        <date hour="17:30" scene="Kiosque à Musique">20/05/2013</date>
+    </artist>
+    <artist name="Balada" style="Musique du Monde" country="France">
+        <date hour="19:30" scene="Scène de la République">18/05/2013</date>
+    </artist>
+    <artist name="City Tamburica Orchestra Banja Luka" style="Musique du Monde" country="Algérie">
+        <date hour="16:30" scene="Scène de la République">19/05/2013</date>
+        <date hour="17:00" scene="Théatre Granit">20/05/2013</date>
+    </artist>
+    <artist name="La Compagnie Ma-Nkoussou" style="Musique du Monde" country="Cameroun">
+        <date hour="18:00" scene="Scène de la République">18/05/2013</date>
+        <date hour="15:00" scene="Scène de la République">19/05/2013</date>
+        <date hour="16:00" scene="L'Arsenal">20/05/2013</date>
+    </artist>
+    <artist name="Conservatoire de Maroussi" style="Musique du Monde" country="Grèce">
+        <date hour="22:00" scene="Théatre Granit">18/05/2013</date>
+        <date hour="15:30" scene="Scène de la République">20/05/2013</date>
+    </artist>
+    <artist name="Faso Paris" style="Musique du Monde" country="Burkina Faso">
+        <date hour="18:30" scene="Kiosque à Musique">19/05/2013</date>
+        <date hour="23:00" scene="Kiosque à Musique">18/05/2013</date>
+        <date hour="19:00" scene="Kiosque à Musique">20/05/2013</date>
+    </artist>
+    <artist name="Ibrahim Keita et Nankama" style="Musique du Monde" country="Burkina Faso">
+        <date hour="22:00" scene="Scène Bleu">18/05/2013</date>
+    </artist>
+    <artist name="Indian Classical Music" style="Musique du Monde" country="Inde">
+        <date hour="14:30" scene="Théatre Granit">19/05/2013</date>
+        <date hour="20:00" scene="Théatre Granit">20/05/2013</date>
+    </artist>
+    <artist name="Karkaboo" style="Musique du Monde" country="France">
+        <date hour="22:30" scene="Scène de la République">18/05/2013</date>
+        <date hour="15:30" scene="Kiosque à Musique">19/05/2013</date>
+        <date hour="20:00" scene="Scène de la République">20/05/2013</date>
+    </artist>
+    <artist name="Kichigai Taiko" style="Musique du Monde" country="France">
+        <date hour="19:30" scene="Salle des Fêtes">18/05/2013</date>
+    </artist>
+    <artist name="Maloyakoustik" style="Musique du Monde" country="France">
+        <date hour="18:30" scene="L'Arsenal">18/05/2013</date>
+        <date hour="15:00" scene="Scène Bleu">19/05/2013</date>
+    </artist>
+    <artist name="Osannolika" style="Musique du Monde" country="Suède">
+        <date hour="16:00" scene="Hôtel de Ville">18/05/2013</date>
+        <date hour="20:00" scene="Kiosque à Musique">19/05/2013</date>
+    </artist>
+    <artist name="Patrick Kabre" style="Musique du Monde" country="Burkina Faso">
+        <date hour="18:30" scene="Conservatoire">18/05/2013</date>
+    </artist>
+    <artist name="Shak Shakito" style="Musique du Monde" country="Congo">
+        <date hour="21:00" scene="Scène de la République">18/05/2013</date>
+        <date hour="22:30" scene="Scène de la République">19/05/2013</date>
+    </artist>
+    <artist name="TAFEP" style="Musique du Monde" country="Portugal">
+        <date hour="15:30" scene="Conservatoire">18/05/2013</date>
+    </artist>
+    <artist name="Takht" style="Musique du Monde" country="Tunisie">
+        <date hour="14:30" scene="Théatre Granit">18/05/2013</date>
+        <date hour="19:00" scene="Théatre Granit">19/05/2013</date>
+    </artist>
+    <artist name="Traditionnal Music Ensemble of China" style="Musique du Monde" country="Chine">
+        <date hour="17:30" scene="Théatre Granit">19/05/2013</date>
+        <date hour="18:30" scene="Théatre Granit">20/05/2013</date>
+    </artist>
+    <artist name="Trio Gersim" style="Musique du Monde" country="Italie">
+        <date hour="20:30" scene="Théatre Granit">18/05/2013</date>
+        <date hour="16:00" scene="Théatre Granit">19/05/2013</date>
+    </artist>
+    <artist name="Urya" style="Musique du Monde" country="Mongolie">
+        <date hour="16:00" scene="Hôtel de Ville">19/05/2013</date>
+        <date hour="14:00" scene="Hôtel de Ville">20/05/2013</date>
+    </artist>
+    
+    <!-- Genre : Musique nouvelle -->
+    <artist name="Trionys meets Lawrence Casserley" style="Musique Nouvelle" country="Allemagne">
+        <date hour="19:30" scene="Centre Chorégraphique">18/05/2013</date>
+        <date hour="16:30" scene="Centre Chorégraphique">19/05/2013</date>
+        <date hour="18:30" scene="Centre Chorégraphique">20/05/2013</date>
+    </artist>
+    <artist name="Atelier Son du Lycée Courbet" style="Musique Nouvelle" country="France">
+        <date hour="14:30" scene="Centre Chorégraphique">18/05/2013</date>
+    </artist>
+    <artist name="Classe de Compositions en musique électronique" style="Musique Nouvelle" country="France">
+        <date hour="17:30" scene="Centre Chorégraphique">19/05/2013</date>
+    </artist>
+    <artist name="EMI" style="Musique Nouvelle" country="France">
+        <date hour="21:30" scene="Centre Chorégraphique">19/05/2013</date>
+    </artist>
+    <artist name="iNprEvistO" style="Musique Nouvelle" country="Italie">
+        <date hour="15:00" scene="Centre Chorégraphique">19/05/2013</date>
+    </artist>
+    <artist name="Jean-Marc Weber" style="Musique Nouvelle" country="France">
+        <date hour="19:30" scene="Centre Chorégraphique">19/05/2013</date>
+    </artist>
+    <artist name="LiviArmando" style="Musique Nouvelle" country="France">
+        <date hour="22:30" scene="Centre Chorégraphique">18/05/2013</date>
+    </artist>
+    <artist name="Proyecto Electroacustico Sinaloense" style="Musique Nouvelle" country="Mexique">
+        <date hour="21:00" scene="Centre Chorégraphique">18/05/2013</date>
+        <date hour="17:00" scene="Centre Chorégraphique">20/05/2013</date>
+    </artist>
+    <artist name="Scratch04" style="Musique Nouvelle" country="France">
+        <date hour="16:00" scene="Centre Chorégraphique">18/05/2013</date>
+        <date hour="18:00" scene="Centre Chorégraphique">19/05/2013</date>
+    </artist>
+    <artist name="Unmapped" style="Musique Nouvelle" country="France">
+        <date hour="14:00" scene="Centre Chorégraphique">20/05/2013</date>
+    </artist>
+    
+    <!-- Genre: Autre formation -->
+    <artist name="Afro Wild Zombies" style="Autres Formations" country="France">
+        <date hour="21:30" scene="Conservatoire">19/05/2013</date>
+        <date hour="14:00" scene="Scène de la République">20/05/2013</date>
+    </artist>
+    <artist name="Anastasia" style="Autres Formations" country="France">
+        <date hour="21:00" scene="Scène Bleu">19/05/2013</date>
+        <date hour="20:30" scene="Kiosque à Musique">20/05/2013</date>
+    </artist>
+    <artist name="Bambossa" style="Autres Formations" country="France">
+        <date hour="19:00" scene="Scène Bleu">18/05/2013</date>
+        <date hour="18:00" scene="Chapiteau Jazz">19/05/2013</date>
+    </artist>
+    <artist name="Bandita" style="Autres Formations" country="Italie">
+        <date hour="14:00" scene="Conservatoire">18/05/2013</date>
+        <date hour="11:00" scene="Kiosque à Musique">19/05/2013</date>
+    </artist>
+    <artist name="Conservatoire à Raoyonnement Régional du Grand Besancon" style="Autres Formations" country="France">
+        <date hour="19:00" scene="Théatre Granit">18/05/2013</date>
+    </artist>
+    <artist name="Crassh" style="Autres Formations" country="Portugal">
+        <date hour="16:00" scene="Hôtel du Département">18/05/2013</date>
+        <date hour="19:00" scene="Conservatoire">20/05/2013</date>
+        <date hour="14:30" scene="Kiosque à Musique">20/05/2013</date>
+    </artist>
+    <artist name="Djanta" style="Autres Formations" country="France">
+        <date hour="23:00" scene="Conservatoire">19/05/2013</date>
+        <date hour="17:30" scene="L'Arsenal">20/05/2013</date>
+    </artist>
+    <artist name="Dumba Kultur" style="Autres Formations" country="Burkina Faso">
+        <date hour="18:30" scene="L'Arsenal">19/05/2013</date>
+        <date hour="14:30" scene="Kiosque à Musique">20/05/2013</date>
+    </artist>
+    <artist name="Fanfare Touzdec" style="Autres Formations" country="France">
+        <date hour="16:00" scene="Scène Bleu">18/05/2013</date>
+        <date hour="14:30" scene="Hôtel de Ville">19/05/2013</date>
+    </artist>
+    <artist name="Faut qu'ca guinche" style="Autres Formations" country="France">
+        <date hour="19:30" scene="Scène Bleu">19/05/2013</date>
+        <date hour="17:00" scene="Scène de la République">20/05/2013</date>
+    </artist>
+    <artist name="Garby's freres" style="Autres Formations" country="Tunisie">
+        <date hour="17:00" scene="L'Arsenal">18/05/2013</date>
+        <date hour="16:00" scene="Conservatoire">20/05/2013</date>
+    </artist>
+    <artist name="Gnawa Click" style="Autres Formations" country="Maroc">
+        <date hour="21:00" scene="Scène de la République">19/05/2013</date>
+        <date hour="14:30" scene="Le Lion">20/05/2013</date>
+    </artist>
+    <artist name="Inisaroma Percussions" style="Autres Formations" country="France">
+        <date hour="15:30" scene="Théatre Granit">20/05/2013</date>
+    </artist>
+    <artist name="Karavana Iluzig" style="Autres Formations" country="Slovénie">
+        <date hour="21:30" scene="L'Arsenal">18/05/2013</date>
+        <date hour="16:30" scene="Scène de la République">18/05/2013</date>
+        <date hour="22:30" scene="Scène Bleu">19/05/2013</date>
+    </artist>
+    <artist name="La coopérative du Raffut" style="Autres Formations" country="France">
+        <date hour="19:00" scene="Salle des Fêtes">20/05/2013</date>
+    </artist>
+    <artist name="Les Frappés 1er Pole" style="Autres Formations" country="France">
+        <date hour="19:30" scene="Salle des Fêtes">19/05/2013</date>
+    </artist>
+    <artist name="Maltosh" style="Autres Formations" country="France">
+        <date hour="20:30" scene="Scène Bleu">18/05/2013</date>
+        <date hour="18:30" scene="Conservatoire">19/05/2013</date>
+    </artist>
+    <artist name="Natural Weeding" style="Autres Formations" country="France">
+        <date hour="18:00" scene="Scène Bleu">19/05/2013</date>
+        <date hour="14:30" scene="L'Arsenal">20/05/2013</date>
+    </artist>
+    <artist name="Newbridge" style="Autres Formations" country="Suisse">
+        <date hour="14:30" scene="Scène Bleu">18/05/2013</date>
+        <date hour="20:00" scene="L'Arsenal">19/05/2013</date>
+    </artist>
+    <artist name="Thrips" style="Autres Formations" country="France">
+        <date hour="20:00" scene="Kiosque à Musique">18/05/2013</date>
+    </artist>
+    <artist name="Tomback" style="Autres Formations" country="Equateur">
+        <date hour="20:00" scene="L'Arsenal">18/05/2013</date>
+        <date hour="19:30" scene="Scène de la République">19/05/2013</date>
+        <date hour="19:30" scene="L'Arsenal">20/05/2013</date>
+    </artist>
+    <artist name="Triton Trio et Marie-Pier Allard" style="Autres Formations" country="Canada">
+        <date hour="15:00" scene="Kiosque à Musique">18/05/2013</date>
+        <date hour="21:30" scene="Kiosque à Musique">19/05/2013</date>
+        <date hour="15:30" scene="Chapiteau Jazz">20/05/2013</date>
+    </artist>
+    <artist name="Uke nBrass" style="Autres Formations" country="France">
+        <date hour="17:00" scene="Kiosque à Musique">18/05/2013</date>
+        <date hour="23:00" scene="Kiosque à Musique">19/05/2013</date>
+    </artist>
+    <artist name="Whiskybaba" style="Autres Formations" country="France">
+        <date hour="16:30" scene="Scène Bleu">19/05/2013</date>
+        <date hour="18:30" scene="Scène de la République">20/05/2013</date>
+    </artist>
+</fimu>

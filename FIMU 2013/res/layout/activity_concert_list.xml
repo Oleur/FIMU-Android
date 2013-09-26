@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.fimu.fragments.ConcertList" >
+
+    <TextView
+        android:id="@+id/text_nb_concert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="@string/no_concert"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/button_gmaps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button_share_facebook"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/map_icon"
+        android:contentDescription="@string/img_description"/>
+
+    <ImageButton
+        android:id="@+id/button_share_facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/text_nb_concert"
+        android:src="@drawable/icon_facebook"
+        android:contentDescription="@string/img_description" />
+
+    <ListView
+        android:id="@+id/listview_concerts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button_share_facebook"
+        android:cacheColorHint="#0000"
+        android:clipToPadding="true"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="10dp" >
+
+    </ListView>
+
+</RelativeLayout>

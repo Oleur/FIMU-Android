@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FIMU 2013</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="action_add_concert">Add a concert</string>
+    <string name="action_refresh_list">Refresh</string>
+    
+    <string name="title_activity_about_fimu">About FIMU App</string>
+    <string name="title_activity_concert_list">Your dashboard</string>
+    <string name="title_activity_maps_fimu">Where\'s my concert ?</string>
+    <string name="title_activity_concert_description_viewer">What about this concert ?</string>
+    <string name="title_activity_concert_details">Concert details</string>
+    <string name="title_action_bar_concert_list">FIMU</string>
+    
+    <string name="group_name_selection">Search by name</string>
+    <string name="style_and_country_selection">Search by country and/or genre</string>
+    <string name="search_a_group">Search with a group name</string>
+    <string name="select_genre_and_country">Select a music genre and/or a country to find group you like !</string>
+    <string name="result">Results: </string>
+    <string name="group_name">Group name</string>
+	<string name="scene">Stage: </string>
+	<string name="genre">Genre: </string>
+	<string name="time">Concert time: </string>
+	<string name="add">Add</string>
+	<string name="cancel">Cancel</string>
+	<string name="string_menu_search">Find a concert</string>
+	<string name="no_concert">No concert in your plan</string>
+	<string name="today">Today</string>
+	<string name="yes">OK</string>
+	<string name="no">No</string>
+	<string name="delete">Delete</string>
+	<string name="delete_text">Are you sure you want to delete this concert ?</string>
+	<string name="nb_concert">concert(s) to enjoy !</string>
+	<string name="add_all">Add all</string>
+	<string name="valid_search">Search</string>
+	<string name="display_route_title">Display the route</string>
+    <string name="display_route_question">Do you want to route to the selected stage ?</string>
+    <string name="concert_in_list">Concert already in your list</string>
+    <string name="share_sentence">Only one concert has to be selected !</string>
+    <string name="share_comment1">Go to see</string>
+    <string name="share_comment2">,</string>
+    <string name="share_comment3">at</string>
+    <string name="img_description">Image Fimu</string>
+    <string name="date_and_hour">Date and hour</string>
+    <string name="take_picture">Take Picture</string>
+	<string name="facebook_app_id">180857638739946</string>
+	
+	<!-- Festival days -->
+	<string name="day1">17/05/2013</string>
+	<string name="day2">18/05/2013</string>
+	<string name="day3">19/05/2013</string>
+	<string name="day4">20/05/2013</string>
+	
+	<!-- Noms des scènes -->
+	<string name="stage_atria">L\'Atria</string>
+	<string name="stage_salle_fete">Salle des F&#234;tes</string>
+	<string name="stage_commerce">Chambre de Commerce</string>
+	<string name="stage_republic">Sc&#232;ne de la R&#233;publique</string>
+	<string name="stage_kiosque">Kiosque &#224; Musique</string>
+	<string name="stage_cathedral">Cath&#233;drale Saint-Christophe</string>
+	<string name="stage_hotel_ville">H&#244;tel de Ville</string>
+	<string name="stage_arsenal">L\'Arsenal</string>
+	<string name="stage_chapiteau_jazz">Chapiteau Jazz</string>
+	<string name="stage_hotel_dep">H&#244;tel du D&#233;partement</string>
+	<string name="stage_lion">Le Lion</string>
+	<string name="stage_chore">Centre Chor&#233;graphique</string>
+	<string name="stage_concervatoire">Conservatoire</string>
+	<string name="stage_bleu">Sc&#232;ne Bleu</string>
+	<string name="stage_granit">Th&#233;atre Granit</string>
+	
+</resources>

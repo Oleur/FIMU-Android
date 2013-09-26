@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_selection_menu">
+		<item>@string/group_name_selection</item>
+		<item>@string/style_and_country_selection</item>
+	</array>
+</resources>
